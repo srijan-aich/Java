@@ -1,5 +1,5 @@
-class datatypes1 {
-    public static void main(String a[]) 
+public class datatypes1 {
+    public static void main(String args[]) 
     {
 
         int x = 10; // integer data type

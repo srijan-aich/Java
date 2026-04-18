@@ -1,6 +1,6 @@
-class var1
+public class var1
 {
-    public static void main(String a[])
+    public static void main(String args[]) 
     {
         int x = 10;
         int y = 20;

@@ -1,5 +1,5 @@
-class Literals {
-    public static void main(String a[]) {
+public class literals {
+    public static void main(String args[]) {
         
         // 1. Integer Literals
         int decimal = 100;          // Standard base 10
