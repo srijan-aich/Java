@@ -15,7 +15,7 @@ public class multi_array3 {
             System.out.println(); // Print a new line after each row
         }
 
-        for(int n[] : nums) { // Use a for-each loop to iterate through the 2D array
+        for(int n[] : nums) { // Use a enhanced for loop to iterate through the 2D array
             for(int m : n) {
                 System.out.print(m + " "); // Print each element in the current row
             }
