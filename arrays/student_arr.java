@@ -10,7 +10,7 @@ public class student_arr {
         Student s1 = new Student();
         s1.id = 101;
         s1.name = "Srijan";
-        s1.marks = 90;
+        s1.marks = 95;
 
         Student s2 = new Student();
         s2.id = 102;
