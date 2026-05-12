@@ -14,12 +14,12 @@ public class student_arr {
 
         Student s2 = new Student();
         s2.id = 102;
-        s2.name = "Satyarth";
+        s2.name = "Srikanth";
         s2.marks = 85;
 
         Student s3 = new Student();
         s3.id = 103;
-        s3.name = "Shivam";
+        s3.name = "Tom";
         s3.marks = 75;
 
         Student students[] = new Student[3];
