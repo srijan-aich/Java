@@ -19,7 +19,7 @@ public class student_arr {
 
         Student s3 = new Student();
         s3.id = 103;
-        s3.name = "Tom";
+        s3.name = "Denzel";
         s3.marks = 75;
 
         Student students[] = new Student[3];
