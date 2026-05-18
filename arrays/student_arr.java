@@ -14,7 +14,7 @@ public class student_arr {
 
         Student s2 = new Student();
         s2.id = 102;
-        s2.name = "Srikanth";
+        s2.name = "Harvey";
         s2.marks = 85;
 
         Student s3 = new Student();
