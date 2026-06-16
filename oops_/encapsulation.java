@@ -19,6 +19,8 @@ class Human{
     }
 }
 
+// getter and setter methods are used to access private variables of a class. We can use abc-xyz instead of getAge and setAge but it is a convention to use get and set as prefix for getter and setter methods respectively.
+
 
 public class encapsulation{
     public static void main(String[] args) {
