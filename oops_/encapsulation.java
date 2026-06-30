@@ -2,16 +2,16 @@ class Human{
     private int age;
     private String name;
 
-    public void setAge(int a) {
-        age = a;
+    public void setAge(int a) { //int age
+        age = a; // this.age = age; should be used.
     }
 
     public int getAge() {
         return age;
     }
 
-    public void setName(String n) {
-        name = n;
+    public void setName(String n) {  // if String name is used instead of String n
+        name = n;   // this.name = name; should be used to avoid ambiguity. 
     }
 
     public String getName() {
