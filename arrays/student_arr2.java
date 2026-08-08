@@ -1,5 +1,5 @@
 
-// Enhanced for loop used.
+// Enhanced for loop used
 
 
 class Student {
@@ -20,7 +20,6 @@ public class student_arr2 {
         s2.id = 102;
         s2.name = "Arthur";
         s2.marks = 85;
-
         Student s3 = new Student();
         s3.id = 103;
         s3.name = "Michael";

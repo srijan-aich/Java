@@ -34,3 +34,4 @@ public class Demo {
 /*but if we don't write method 2 and run 2 int then it will give error 
 because it will not find method with 2 int parameters. 
 so we have to write method 2 to run the code without error.*/
+
