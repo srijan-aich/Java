@@ -9,7 +9,7 @@ class Laptop{
     }
 
     @Override
-    public int hashCode() {
+    public int hashCode() { //source action -> Generate -> hashCode() and equals() method
         final int prime = 31;
         int result = 1;
         result = prime * result + ((model == null) ? 0 : model.hashCode());
