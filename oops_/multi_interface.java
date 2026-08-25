@@ -43,5 +43,5 @@ public class multi_interface {
         obj.sees();
         obj.runs();
        
-    }; 
+    };  
 }
