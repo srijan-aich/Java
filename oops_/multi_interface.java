@@ -14,7 +14,7 @@ interface Boy{
     void speaks();
 }
 
-interface Man_Woman extends Girl, Boy{  // Multiple
+interface Man_Woman extends Girl, Boy{  //Both
 
 
 }
