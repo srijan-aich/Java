@@ -3,7 +3,7 @@ interface Show { //interface is a collection of abstract methods. It is a bluepr
 
     int a = 10; // variables in interface are by default public, static and final
     String name = "Interface Example"; // variables in interface are by default public, static and final
-    void show();
+    void show(); // no need to write public and abstract keywords, they are by default public and abstract
     void config();
 
 }
@@ -29,7 +29,7 @@ public class interface_ {
         obj = new ShowImpl(); // Creating an object of the class that implements the interface
         obj.show();
         obj.config();
-        
+
         System.out.println("Value of a: " + Show.a); // Accessing the variable of the interface
         System.out.println("Value of name: " + Show.name); // Accessing the variable of the interface
 
