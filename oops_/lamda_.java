@@ -7,6 +7,8 @@ interface Lam{
     //void num(int i); func interface so another method not possible, just and ex of using values with lamda expression
 }
 
+//lamda only works with functional interface
+
 public class lamda_ {
     public static void main(String[] args) {
 
