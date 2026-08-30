@@ -7,7 +7,7 @@ public class throw_excep {
         try{
             j = 18/i;
             if(j==0){
-            throw new ArithmeticException("I don't want to print zero"); //this will print the catch
+            throw new ArithmeticException("I don't want to print zero"); //this will print the catch...
             }
         }
         catch(ArithmeticException e)
