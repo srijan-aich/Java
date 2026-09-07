@@ -13,6 +13,7 @@ public class throw_excep {
         catch(ArithmeticException e)
         {
             j = 18;
+            System.out.println(e.getMessage());
             System.out.println("Default Output:");
         }
 
