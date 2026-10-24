@@ -23,4 +23,4 @@ public class Multi_threads {
         threadA.start();
         threadB.start();
     }
-}
+} // scheduler will decide which thread to run first, so the output may vary each time you run the program.
